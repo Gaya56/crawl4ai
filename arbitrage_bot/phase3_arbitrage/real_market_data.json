@@ -208,6 +208,46 @@
     "volume": null
   },
   {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "https://www.predictit.org/markets/detail/8171/Who-will-win-the-2028-US-presidential-election",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
     "event": "Which party will win VA governor's race?",
     "candidate": "90\u00a2 Which party will win VA governor's race?",
     "price_cents": 90,
@@ -283,46 +323,6 @@
     "event": "Which party will win the House in 2026?",
     "candidate": "65\u00a2 Which party will win the House in 2026?",
     "price_cents": 65,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "https://www.predictit.org/markets/detail/8171/Who-will-win-the-2028-US-presidential-election",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
     "platform": "PredictIt",
     "url": "",
     "volume": null
@@ -850,7 +850,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets",
     "volume": null
@@ -858,7 +858,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets",
     "volume": null
@@ -866,7 +866,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets/detail/8260/What-will-President-Trump's-DDHQ-job-approval-rating-be-on-Sept-5",
     "volume": null
@@ -874,7 +874,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets/detail/8260/What-will-President-Trump's-DDHQ-job-approval-rating-be-on-Sept-5",
     "volume": null
@@ -882,7 +882,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets/detail/8260/What-will-President-Trump's-DDHQ-job-approval-rating-be-on-Sept-5",
     "volume": null
@@ -890,7 +890,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets/detail/8260/What-will-President-Trump's-DDHQ-job-approval-rating-be-on-Sept-5",
     "volume": null
@@ -898,7 +898,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "https://www.predictit.org/markets/detail/8260/What-will-President-Trump's-DDHQ-job-approval-rating-be-on-Sept-5",
     "volume": null
@@ -906,7 +906,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "",
     "volume": null
@@ -914,7 +914,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "",
     "volume": null
@@ -922,7 +922,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "",
     "volume": null
@@ -930,7 +930,7 @@
   {
     "event": "Trump's DDHQ job approval on Sept. 5?",
     "candidate": "Trump's DDHQ",
-    "price_cents": 74,
+    "price_cents": 73,
     "platform": "PredictIt",
     "url": "",
     "volume": null
@@ -1016,6 +1016,46 @@
     "volume": null
   },
   {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "https://www.predictit.org/markets/detail/8171/Who-will-win-the-2028-US-presidential-election",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
+    "event": "2028 US presidential election winner?",
+    "candidate": "31\u00a2 2028 US presidential election winner?",
+    "price_cents": 31,
+    "platform": "PredictIt",
+    "url": "",
+    "volume": null
+  },
+  {
     "event": "How many Trump vetoes in 2025?",
     "candidate": "93\u00a2 How many Trump vetoes in 2025?",
     "price_cents": 93,
@@ -1091,46 +1131,6 @@
     "event": "Congress extends DC Emergency?",
     "candidate": "DC Emergency?",
     "price_cents": 2,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "https://www.predictit.org/markets/detail/8171/Who-will-win-the-2028-US-presidential-election",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
-    "platform": "PredictIt",
-    "url": "",
-    "volume": null
-  },
-  {
-    "event": "2028 US presidential election winner?",
-    "candidate": "31\u00a2 2028 US presidential election winner?",
-    "price_cents": 31,
     "platform": "PredictIt",
     "url": "",
     "volume": null
