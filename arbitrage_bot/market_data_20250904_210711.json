@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-09-04T21:07:11.282376",
+  "total_entries": 4,
+  "data": [
+    {
+      "source": "PredictIt",
+      "event_title": "Bitcoin to reach $150k in 2025",
+      "outcome": "Yes",
+      "price": 0.35,
+      "timestamp": "2025-09-04T21:07:11.281943"
+    },
+    {
+      "source": "Polymarket",
+      "event_title": "Bitcoin to reach $150k in 2025",
+      "outcome": "Yes",
+      "price": 0.28,
+      "timestamp": "2025-09-04T21:07:11.281954"
+    },
+    {
+      "source": "Kalshi",
+      "event_title": "AI breakthrough in 2025",
+      "outcome": "Yes",
+      "price": 0.4,
+      "timestamp": "2025-09-04T21:07:11.281957"
+    },
+    {
+      "source": "PredictIt",
+      "event_title": "AI breakthrough in 2025",
+      "outcome": "No",
+      "price": 0.55,
+      "timestamp": "2025-09-04T21:07:11.281960"
+    }
+  ]
+}

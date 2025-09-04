@@ -1,0 +1,119 @@
+{
+  "timestamp": "2025-09-04T21:04:25.199084",
+  "iteration": 1,
+  "opportunities": [
+    {
+      "event_title": "Will SpaceX launch to Mars in 2026?",
+      "outcome": "Yes",
+      "sources": [
+        "PredictIt",
+        "Polymarket"
+      ],
+      "prices": [
+        0.2605751407535325,
+        0.2893078721256534
+      ],
+      "arbitrage_result": {
+        "has_arbitrage": true,
+        "profit_percentage": 11.026658678579793,
+        "explanation": "Buy at $0.26, sell at $0.29 for $0.03 profit per share",
+        "arbitrage_type": "direct_price",
+        "min_price": 0.2605751407535325,
+        "max_price": 0.2893078721256534,
+        "profit_per_share": 0.0287327313721209
+      },
+      "event_data": [
+        {
+          "source": "PredictIt",
+          "event_title": "Will SpaceX launch to Mars in 2026?",
+          "outcome": "Yes",
+          "price": 0.2605751407535325,
+          "timestamp": "2025-09-04T21:04:25.198496"
+        },
+        {
+          "source": "Polymarket",
+          "event_title": "Will SpaceX launch to Mars in 2026?",
+          "outcome": "Yes",
+          "price": 0.2893078721256534,
+          "timestamp": "2025-09-04T21:04:25.198502"
+        }
+      ],
+      "detected_at": "2025-09-04T21:04:25.198539"
+    },
+    {
+      "event_title": "AI breakthrough in 2025",
+      "outcome": "Yes",
+      "sources": [
+        "CheapMarket",
+        "ExpensiveMarket"
+      ],
+      "prices": [
+        0.2138394620522682,
+        0.34956710665863033
+      ],
+      "arbitrage_result": {
+        "has_arbitrage": true,
+        "profit_percentage": 63.4717480598537,
+        "explanation": "Buy at $0.21, sell at $0.35 for $0.14 profit per share",
+        "arbitrage_type": "direct_price",
+        "min_price": 0.2138394620522682,
+        "max_price": 0.34956710665863033,
+        "profit_per_share": 0.13572764460636214
+      },
+      "event_data": [
+        {
+          "source": "CheapMarket",
+          "event_title": "AI breakthrough in 2025",
+          "outcome": "Yes",
+          "price": 0.2138394620522682,
+          "timestamp": "2025-09-04T21:04:25.198510"
+        },
+        {
+          "source": "ExpensiveMarket",
+          "event_title": "AI breakthrough in 2025",
+          "outcome": "Yes",
+          "price": 0.34956710665863033,
+          "timestamp": "2025-09-04T21:04:25.198513"
+        }
+      ],
+      "detected_at": "2025-09-04T21:04:25.198544"
+    },
+    {
+      "event_title": "Bitcoin above $100k by year end",
+      "outcome": "Both (Yes+No)",
+      "sources": [
+        "Market1",
+        "Market2"
+      ],
+      "prices": [
+        0.28912857956003646,
+        0.5995016195009014
+      ],
+      "arbitrage_result": {
+        "has_arbitrage": true,
+        "profit_percentage": 12.53274996244247,
+        "explanation": "Buy Yes at $0.29 + No at $0.60 = $0.89 < $1.00. Guaranteed profit: $0.11",
+        "arbitrage_type": "complementary",
+        "total_cost": 0.8886301990609379,
+        "guaranteed_profit": 0.11136980093906212
+      },
+      "event_data": [
+        {
+          "source": "Market1",
+          "event_title": "Bitcoin above $100k by year end",
+          "outcome": "Yes",
+          "price": 0.28912857956003646,
+          "timestamp": "2025-09-04T21:04:25.198506"
+        },
+        {
+          "source": "Market2",
+          "event_title": "Bitcoin above $100k by year end",
+          "outcome": "No",
+          "price": 0.5995016195009014,
+          "timestamp": "2025-09-04T21:04:25.198508"
+        }
+      ],
+      "detected_at": "2025-09-04T21:04:25.198563"
+    }
+  ]
+}
