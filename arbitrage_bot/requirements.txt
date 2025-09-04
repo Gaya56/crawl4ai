@@ -1,4 +1,6 @@
-crawl4ai
-supabase
-python-dotenv
-psycopg2-binary
+# Official Crawl4AI dependencies based on examples
+crawl4ai>=0.7.4
+playwright>=1.40.0
+asyncio
+aiohttp
+beautifulsoup4
