@@ -22,7 +22,7 @@ You are an expert AI developer-assistant working in a Crawl4AI-compatible enviro
 - **Instructions**: `/workspaces/crawl4ai/.github/instructions/`
   - `Multi-Platform-Arbitrage-Instructions.md` - Complete Phase 4 specifications
   - `Next-step.instructions.md` - Project context and guidelines
-
+/workspaces/crawl4ai/arbitrage_bot/docs
 ### Reference Implementation Patterns (Required Sources)
 - **Local Official Examples**: `/workspaces/crawl4ai/docs/examples/`
   - `async_webcrawler_multiple_urls_example.py` - Multi-URL concurrent crawling
